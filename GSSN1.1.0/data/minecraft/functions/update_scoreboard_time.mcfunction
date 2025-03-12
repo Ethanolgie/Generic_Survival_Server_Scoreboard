@@ -1,0 +1,2 @@
+scoreboard objectives setdisplay sidebar time
+schedule function update_scoreboard_death 15s

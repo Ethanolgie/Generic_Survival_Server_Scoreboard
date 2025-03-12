@@ -1,0 +1,19 @@
+﻿{
+	"pack": {
+		"pack_format": 15,
+		"description": [
+			{
+				"text": "Generic Survival Server Notice",
+				"color": "gold"
+			},
+			{
+				"text": "v1.1.2",
+				"color": "green"
+			},
+			{
+				"text": "Ethanolgie",
+				"color": "green"
+			}
+		]
+	}
+}
